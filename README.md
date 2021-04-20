@@ -1,4 +1,4 @@
-### Hello, GitHub World 😎
+### Hello, GitHub World 😎 :octocat:
 
 
 I'm sophomore Information Systems at The Department of Computer Science, UFMG. 
