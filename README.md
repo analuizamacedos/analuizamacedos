@@ -1,7 +1,7 @@
 ### Hello, GitHub World 😎 :octocat:
 
 
-I'm sophomore Information Systems at The Department of Computer Science, UFMG. 
+I'm sophomore Information Systems student at The Department of Computer Science, UFMG. 
 
 This is where I'm going to be sharing some practical projects and tryings at learning something new! 
 
