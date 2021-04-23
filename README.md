@@ -9,5 +9,5 @@ How to reach me: analuizamacedost@gmail.com or (for academic reasons) analuizama
 
 Fun fact about me: I'm starting to paint and I really enjoy it 🎨 Also I have a beautiful and stuborn pet 🐶
  
-[My Linkedin](https://www.linkedin.com/in/ana-luiza-mac%C3%AAdo/)
+[My LinkedIn](https://www.linkedin.com/in/ana-luiza-mac%C3%AAdo/)
 
