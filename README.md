@@ -7,7 +7,7 @@ I'm sophomore Information Systems student at The Department of Computer Science,
 
 This is where I'm going to be sharing some practical projects and tryings at learning something new! 
 
-I'm such a Python enthusiastic
+I'm such a Python enthusiast
 
 How to reach me: analuizamacedost@gmail.com or (for academic reasons) analuizamacedo@dcc.ufmg.br 
 
