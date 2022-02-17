@@ -11,7 +11,7 @@ I'm such a Python enthusiast
 
 How to reach me: analuizamacedost@gmail.com or (for academic reasons) analuizamacedo@dcc.ufmg.br 
 
-Fun fact about me: I'm starting to paint and I really enjoy it 🎨 Also I have a beautiful and stuborn pet 🐶
+Currently I'm at an Data Analytics research project that involves helping and improving Complaint Registration violence against women. 
  
 [My LinkedIn](https://www.linkedin.com/in/ana-luiza-mac%C3%AAdo/)
 
