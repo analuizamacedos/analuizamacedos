@@ -9,9 +9,9 @@ This is where I'm going to be sharing some practical projects and tryings at lea
 
 I'm such a Python enthusiast
 
+Currently I'm researching in Data Analysis and I'm an information security intern 
 
- 
 [My LinkedIn](https://www.linkedin.com/in/ana-luiza-mac%C3%AAdo/)
 
 
-How to reach me: analuizamacedost@gmail.com or for academic reasons analuizamacedo@dcc.ufmg.br 
+How to reach me: analuizamacedost@gmail.com 
