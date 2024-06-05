@@ -9,7 +9,7 @@ This is where I'm going to be sharing some practical projects and tryings at lea
 
 I'm such a Python enthusiast
 
-Currently I'm researching in Network Security and I'm an information security junior consultant 
+Currently I'm researching in Network Security and I'm an information security analyst (DLP, Data Governance, Data Privacy, Risk Analysis and Incident Management)
 
 [My LinkedIn](https://www.linkedin.com/in/ana-luiza-mac%C3%AAdo/)
 
